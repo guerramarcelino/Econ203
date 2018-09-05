@@ -1,6 +1,6 @@
 ####################### Working with vectors #######################
 ## A vector is a sequence of data elements of the 
-## same basic type - in our case, numbers (a numeric vector)
+## same basic type - in our case, numbers (a numeric vector). So, use c()
 ## Giving him a name (waist):
 
 waist<-c(32,32,33,40,32,48,34,33,30,28)
@@ -11,12 +11,12 @@ View(waist)
 ######## A skewed distribution 
 hist(waist)
 
-######## Mean (mean()) and Standard Deviation (sd()) is all what we need; 
+######## All that we need: mean (mean()) and standard deviation (sd())  
 
 mean<-mean(waist)
 sd<-sd(waist)
 
-######## Time to construct intervals using ifelse
+######## Time to construct intervals using ifelse function
 #### Give them a name!
 
 ## 1st interval 
