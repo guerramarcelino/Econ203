@@ -39,3 +39,4 @@ prp2nd<-sum(si)/10
 ti<-ifelse((mean-3*sd)<=waist & waist<=(mean+3*sd), 1,0)
 sum(ti)
 prp3rd<-sum(ti)/10
+#### Time to compare with what the empirical rule predicts.
