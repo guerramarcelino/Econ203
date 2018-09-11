@@ -49,8 +49,8 @@ setwd("C:/Users/User/Desktop")
 #### setwd("C:/Users/User/Desktop/R"). If so, put your data inside the file R
 
 #### I recomend the package xlsx - this is a step to install a new package in R
-#install.packages("xlsx")
-
+install.packages("xlsx")
+#### You just need to install a package one time. After this, just call it using require() 
 #### Every time that you are using a package you gotta call them using require(nameofthepackage)
 require(xlsx)
 
