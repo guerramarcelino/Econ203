@@ -14,7 +14,7 @@ phat
 z<-(phat-p)/sqrt(p*(1-p)/n)
 z
 
-##### The critical value associated to the level of confidence (.10). Remember NORMSINV?
+##### The critical value associated with the level of confidence (.10). Remember NORMSINV?
 zc<-qnorm(0.9)
 zc
 ###### Is your z>zc? If yes, reject Ho. Let's play with ifelse statements!
@@ -70,7 +70,7 @@ mean<-mean(debteq$Ratio)
 mean
 sd<-sd(debteq$Ratio)
 sd
-############## Then you have mean and sd for the variable "Ratio". This is obvious because you just have one column.
+############## Then you have the mean and sd for the variable "Ratio". This is obvious because you just have one column.
 ############## However, imagine more columns - more variables in your dataset...
 
 
@@ -94,7 +94,7 @@ max
 zc<-qnorm(0.995)
 zc
 
-######### Remember: you have to devide alfa by 2 - so you have 0.01/2=0.005. qnorm(1-0.005) -> qnorm(0.995)
+######### Remember: you have to divide alfa by 2 - so you have 0.01/2=0.005. qnorm(1-0.005) -> qnorm(0.995)
 w<-0.01
 n<-(sd)^2*(zc)^2/w^2
 n
