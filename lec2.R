@@ -19,7 +19,7 @@ zc<-qnorm(0.9)
 zc
 ###### Is your z>zc? If yes, reject Ho. Let's play with ifelse statements!
 
-what_to_do_1<-ifelse(z>z, "reject", "don't")
+what_to_do_1<-ifelse(z>zc, "reject", "don't")
 what_to_do_1  
 
 ##### Getting the p-value (try to compare with your excel file - pnorm is analogous to NORMSDIST) 
