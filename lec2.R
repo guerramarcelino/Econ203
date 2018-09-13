@@ -31,7 +31,7 @@ pvalue
 what_to_do2<-ifelse(pvalue<0.1, "reject", "don't")
 what_to_do2  
 
-############# Did you get the same results using critical value and p-value
+############# Did you get the same results using critical value and p-value?
 
 ################## HW3 IER Problem #12 ###############################
 #############
@@ -63,7 +63,8 @@ summary(debteq)
 names(debteq)[1]<-"Ratio"
 View(debteq)
 ################# Now it is Ratio!
-
+### Of course you can create a vector of numbers 
+### debteq <-c(1.39, 1.13, 1.46, 1.28, 1.26, 1.84, 1.42, 1.46, 1.23, 1.20, 1.49, 1.36, 1.32, 1.37, 1.68) as we did in the lab session #1
 
 ############### You gotta be specific about what variable you are working on. So, use $variable'sname 
 mean<-mean(debteq$Ratio)
