@@ -20,7 +20,7 @@ what_to_do
 
 
 #### Think about the value that the function pchisq returned. Is it the same as CHIDIST in excel? No!
-#### CHIDIST works with the right tail, so you had to use 1-CHINV in that question.
+#### CHIDIST works with the right tail, so you had to use 1-CHIDIST in that question.
 #### R returns the lower tail by default (look that input lower.tail=TRUE). So, no need 
 #### to subtract by 1 in that case. Check the graphs that we discussed in lab session #3 to
 #### understand the idea
