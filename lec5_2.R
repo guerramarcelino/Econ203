@@ -8,13 +8,13 @@ s1_2<-295
 s2_2<-105
 Fstat<-s1_2/s2_2
 
-############### Working with the upper tail -> Same as using Excel 
+############### Working with the upper tail -> Same as using Excel (FDIST)
 p_value<-pf(Fstat, df1 , df2, lower.tail=FALSE)
 
 what_to_do<-ifelse(p_value<0.05, "reject","don't")
 what_to_do
 
-## Confidence Interval -> Working with the upper tail -> Same as using Excel
+## Confidence Interval -> Working with the upper tail -> Same as using Excel (FINV)
 Fc1<-qf(0.975, df1, df2, lower.tail = FALSE)
 Fc2<-qf(0.025, df1, df2, lower.tail = FALSE)
 
@@ -62,7 +62,7 @@ p_value1
 p_value2<-2*pf(Fstat, df1, df2, lower.tail = TRUE)
 p_value2
 
-#### You get the same result! Try to understand why - take a look at you lab session #5 to see the plots
+#### You get the same result! Try to understand why - take a look at your lab session #5 to see the plots
 
 what_to_do2<-ifelse(p_value1<0.05, "reject", "don't")
 what_to_do2
