@@ -92,7 +92,7 @@ DW<-dwtest(reg)
 DW$statistic
 
 
-### Durbin Watson By hands
+### Durbin Watson by hand
 
 ## First loop for the numerator: you are subtracting rows in your data frame "resid(2)- resid(1)"
 ## "resid(3)-resid(2)" etc and placing them in a vector called num
@@ -111,8 +111,8 @@ for(i in 1:20){den[i]<-(ski_resort[i,4])^2}
 
 ## Sum all those values for "num" and "den". Then, divide them. 
 
-DW_by_hands<-sum(num)/sum(den)
-DW_by_hands
+DW_by_hand<-sum(num)/sum(den)
+DW_by_hand
 
 
 ######################################## HW 19 Question 2 ########################################
