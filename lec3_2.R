@@ -21,12 +21,12 @@ what_to_do
 
 #### Think about the value that the function pchisq returned. Is it the same as CHIDIST in excel? No!
 #### CHIDIST works with the right tail, so you had to use 1-CHIDIST in that question.
-#### R returns the lower tail by default (look that input lower.tail=TRUE). So, no need 
+#### R returns the lower tail by default (take a look at the input "lower.tail=TRUE"). So, no need 
 #### to subtract by 1 in that case. Check the graphs that we discussed in lab session #3 to
 #### understand the idea
 
 
-####### If you want to work with from the right to the left, as in excel, you need 
+####### If you want to work "from the right to the left", as in excel, you need 
 ####### to tell the function! The argument "lower.tail=FALSE" do the work.
 pchisq(x2,df=29, lower.tail = FALSE)   ### That is the excel output for the CHIDIST function
 
@@ -36,7 +36,7 @@ pvalue_excel
 
 
 
-# Finding critical values for X2
+# Finding critical values for X^2
 Xc1<-qchisq(0.025, df=29)
 Xc1
 
