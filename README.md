@@ -8,7 +8,7 @@
 
 ***TA session 1*** 
 
-[lec1.R](https://github.com/guerramarcelino/Econ203/blob/master/lec1.R) - Review #1 Question #1. 
+[lec1.R](https://github.com/guerramarcelino/Econ203/blob/master/lec1.R) - Review #1 Question 1. 
 
 ***TA session 2*** 
 
