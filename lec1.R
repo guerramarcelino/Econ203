@@ -11,6 +11,13 @@ View(waist)
 ######## A skewed distribution 
 hist(waist)
 
+# Make sure that you have ggplot installed 
+library(ggplot2)
+
+dens <- ggplot(waist, aes(x = waist)) + 
+  geom_density(kernel = "gaussian", position = "stack", size=1.5, fill = "#ff4d4d", alpha = 0.5) + labs(x = "Waist Size", y="Density")+ theme(axis.text=element_text(size=18),axis.title=element_text(size=18,face="bold"), plot.title = element_text(size = 20, face = "bold"))
+
+dens
 ######## All that we need: mean (mean()) and standard deviation (sd())  
 
 mean<-mean(waist)
