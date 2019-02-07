@@ -35,6 +35,8 @@
 [lec10.R](https://github.com/guerramarcelino/Econ203/blob/master/lec10.R) - HW #18 Question 3, HW #18 Question 6 and HW #19 Question 2 (download "quizScorev3",  	"ski_resortv3" and	"trees_are_goodv4").
 
 ## Research Project
+
+# Plotting data with ggplot2
 Before running regressions, it is a good idea to summarize the data with some statistics - mean, max, min, median, etc - and create plots and graphs. The following code will help you to create more organized scatter plots for your research project. The example can be found in lab session week 3 "PISA_and_GovSpend.png".  
 
 ```R
