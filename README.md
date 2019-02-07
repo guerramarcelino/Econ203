@@ -35,7 +35,7 @@
 [lec10.R](https://github.com/guerramarcelino/Econ203/blob/master/lec10.R) - HW #18 Question 3, HW #18 Question 6 and HW #19 Question 2 (download "quizScorev3",  	"ski_resortv3" and	"trees_are_goodv4").
 
 ## Research Project
-Before running regressions, it is a good idea to summarize the data with some statistics - mean, max, min, median, etc - and create plots and graphs. The following code will help you to create more organized scatter plots for your research project. 
+Before running regressions, it is a good idea to summarize the data with some statistics - mean, max, min, median, etc - and create plots and graphs. The following code will help you to create more organized scatter plots for your research project. The example can be found in lab session week 3 "PISA_and_GovSpend.png".  
 
 ```R
 ## If you don't have the following packages, start with 
@@ -56,6 +56,7 @@ View(PISA)
 
 ```
 
-You can also check the interactive version [here](https://plot.ly/~marcelinobguerra/82/).
+**In order to understand better the code and get comfortable with ggplot, read the step-by-step version of the plot** [here](http://rstudio-pubs-static.s3.amazonaws.com/284329_c7e660636fec4a42a09eed968dc47f32.html)
 
 ![plot1](https://github.com/guerramarcelino/Econ203/blob/master/plot1.png)
+You can also check the interactive version [here](https://plot.ly/~marcelinobguerra/82/).
