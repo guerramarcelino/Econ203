@@ -93,7 +93,9 @@ plot1
 
 ```
 
-**In order to understand better the code and get comfortable with ggplot, read the step-by-step version of the plot** [here](http://rstudio-pubs-static.s3.amazonaws.com/284329_c7e660636fec4a42a09eed968dc47f32.html)
+**In order to understand better the code and get comfortable with ggplot, read the step-by-step version of the plot** [here](http://rstudio-pubs-static.s3.amazonaws.com/284329_c7e660636fec4a42a09eed968dc47f32.html).
 
 ![plot1](https://github.com/guerramarcelino/Econ203/blob/master/plot1.png)
+
+
 You can also check the interactive version [here](https://plot.ly/~marcelinobguerra/82/).
