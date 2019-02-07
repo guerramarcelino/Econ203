@@ -35,6 +35,7 @@
 [lec10.R](https://github.com/guerramarcelino/Econ203/blob/master/lec10.R) - HW #18 Question 3, HW #18 Question 6 and HW #19 Question 2 (download "quizScorev3",  	"ski_resortv3" and	"trees_are_goodv4").
 
 ## Research Project
+You can also check the interactive version [here](https://plot.ly/~marcelinobguerra/82/).
 
 <table>
 <div>
