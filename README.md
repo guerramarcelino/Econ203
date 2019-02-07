@@ -39,6 +39,5 @@
 <table>
 <div>
     <a href="https://plot.ly/~marcelinobguerra/82/?share_key=SqMcT5LrDcFViN5SbXw5PJ" target="_blank" title="PISAxGov_Spending" style="display: block; text-align: center;"><img src="https://plot.ly/~marcelinobguerra/82.png?share_key=SqMcT5LrDcFViN5SbXw5PJ" alt="PISAxGov_Spending" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="marcelinobguerra:82" sharekey-plotly="SqMcT5LrDcFViN5SbXw5PJ" src="https://plot.ly/embed.js" async></script>
 </div>
 </table>
