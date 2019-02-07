@@ -54,6 +54,43 @@ PISA<-read.xlsx("dataPISA.xlsx", sheetName = "database", as.data.frame = T, head
 View(PISA)
 
 
+plot1 <-  ggplot(PISA, aes (x=Gov_spend_educ, y=LnScore_PISA_MATH)) +
+  geom_point(aes(color = Continent),
+             shape=21, 
+             fill= "White",
+             size =3, 
+             stroke=1.5) +
+ geom_smooth(aes(fill="red"),method = "lm", 
+              formula = y ~ x,
+              se=FALSE, 
+              linetype=1 , 
+              color= "red") +
+  geom_text_repel(data=PISA,
+                  aes(label=Country)) +
+   scale_color_manual( values = c("#924F3E", "#099FDB", "#29B00E", "#208F84", "darkorange", "#23576E")) +
+  scale_fill_manual(name='', values=c("red"),labels=c("R-squared=3.6%")) +
+   theme(legend.position="top",
+          legend.title = element_blank(),
+          legend.box = "horizontal" ,
+          legend.text=element_text(size=11)) +
+  guides(col = guide_legend(nrow = 1)) +
+   theme(panel.grid.minor = element_blank(), 
+          panel.grid.major = element_line(color = "gray50", size = 0.5),
+          panel.grid.major.x = element_blank(),
+          panel.background = element_blank(),
+          line = element_blank()) +
+  scale_x_continuous(name = "Government Spending in Education (% GDP)") +
+  scale_y_continuous(name = "Students' Perfomance on Math - PISA 2012") +
+  theme(axis.ticks.length = unit(.15, "cm"),
+        axis.ticks.y = element_blank(),
+        axis.title.x = element_text(color="black", 
+                                    size=12,
+                                    face="italic"),
+        axis.title.y = element_text(color="black",
+                                    size=12,
+                                    face="italic"))
+plot1
+
 ```
 
 **In order to understand better the code and get comfortable with ggplot, read the step-by-step version of the plot** [here](http://rstudio-pubs-static.s3.amazonaws.com/284329_c7e660636fec4a42a09eed968dc47f32.html)
