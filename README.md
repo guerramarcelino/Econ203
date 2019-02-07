@@ -41,7 +41,7 @@ Before running regressions, it is a good idea to summarize the data with some st
 
 ```R
 ## If you don't have the following packages, start with 
-## install.package("ggrepel"), install.package(""ggplot2) ...
+## install.packages("ggrepel"), install.packages("ggplot2") ...
 require(ggrepel)
 require(ggplot2) 
 require(ggthemes)
