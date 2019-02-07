@@ -35,6 +35,27 @@
 [lec10.R](https://github.com/guerramarcelino/Econ203/blob/master/lec10.R) - HW #18 Question 3, HW #18 Question 6 and HW #19 Question 2 (download "quizScorev3",  	"ski_resortv3" and	"trees_are_goodv4").
 
 ## Research Project
+Before running regressions, it is a good idea to summarize the data with some statistics - mean, max, min, median, etc - and create plots and graphs. The following code will help you to create more organized scatter plots for your research project. 
+
+```R
+## If you don't have the following packages, start with 
+## install.package("ggrepel"), install.package(""ggplot2) ...
+require(ggrepel)
+require(ggplot2) 
+require(ggthemes)
+require(extrafont)
+require(grid) 
+require(cowplot) 
+require(xlsx)
+## Setting up your working directory
+setwd("C:/Users/marce/Desktop/PhD/Semestre 4/Econ203 Spring 2019/TA/3") 
+## Download the file dataPISA.xlsx first
+PISA<-read.xlsx("dataPISA.xlsx", sheetName = "database", as.data.frame = T, header = T)
+View(PISA)
+
+
+```
+
 You can also check the interactive version [here](https://plot.ly/~marcelinobguerra/82/).
 
 ![plot1](https://github.com/guerramarcelino/Econ203/blob/master/plot1.png)
