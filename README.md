@@ -37,8 +37,4 @@
 ## Research Project
 You can also check the interactive version [here](https://plot.ly/~marcelinobguerra/82/).
 
-<table>
-<div>
-    <a href="https://plot.ly/~marcelinobguerra/82/?share_key=SqMcT5LrDcFViN5SbXw5PJ" target="_blank" title="PISAxGov_Spending" style="display: block; text-align: center;"><img src="https://plot.ly/~marcelinobguerra/82.png?share_key=SqMcT5LrDcFViN5SbXw5PJ" alt="PISAxGov_Spending" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-</div>
-</table>
+![plot1](https://github.com/guerramarcelino/Econ203/blob/master/plot1.png)
