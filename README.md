@@ -100,4 +100,4 @@ plot1
 ![plot1](https://github.com/guerramarcelino/Econ203/blob/master/plot1.png)
 
 
-You can also check the interactive version [here](https://plot.ly/~marcelinobguerra/82/).
+You can also check the interactive version [here](https://plot.ly/~marcelinobguerra/82.embed).
