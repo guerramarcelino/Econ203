@@ -2,11 +2,12 @@ library(ggplot2)
 library(xlsx)
 ## Setting up your directory
 setwd("C:/Users/marce/OneDrive - University of Illinois - Urbana/Semestre 5/Econ203/Econ203 Fall 2019/TA/8")
-data<-read.xlsx("data_HW14Q4.xlsx", sheetName = "Sheet1", as.data.frame = T, header = T)
-View(data)
+
 
 ######################################################## HW14 Question 4 ######################################################## 
 ########################################################                 ########################################################
+data<-read.xlsx("data_HW14Q4.xlsx", sheetName = "Sheet1", as.data.frame = T, header = T)
+View(data)
 
 ######### First model
 reg1<-lm(Y1~X1, data=data)
