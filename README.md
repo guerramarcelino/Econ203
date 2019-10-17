@@ -28,7 +28,7 @@
 
 ***TA session 8***
 
-[lab8.R](https://github.com/guerramarcelino/Econ203/blob/master/lab8.R) - Example PISA x Government Efficiency and HW #16 Question 5 (download "data_HW14Q4" and "laurelistanv3").
+[lab8.R](https://github.com/guerramarcelino/Econ203/blob/master/lab8.R) - HW #14 Question 4 and HW #15 Question 2 (download "data_HW14Q4" and "laurelistanv3").
 
 ***TA session 9***
 
