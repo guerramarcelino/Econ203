@@ -26,6 +26,10 @@
 
 [lec5_2.R](https://github.com/guerramarcelino/Econ203/blob/master/lec5_2.R) - HW #9 Question 2 and HW #9 Question 5 (download "furniture_design_v1").
 
+***TA session 8***
+
+[lec9.R](https://github.com/guerramarcelino/Econ203/blob/master/lab8.R) - Example PISA x Government Efficiency and HW #16 Question 5 (download "data_HW14Q4" and "laurelistanv3").
+
 ***TA session 9***
 
 [lec9.R](https://github.com/guerramarcelino/Econ203/blob/master/lec9.R) - Example PISA x Government Efficiency and HW #16 Question 5 (download "PISAxGovEfic" and "StudyGradesv3").
