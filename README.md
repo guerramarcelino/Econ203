@@ -38,6 +38,10 @@
 
 [lec10.R](https://github.com/guerramarcelino/Econ203/blob/master/lec10.R) - HW #18 Question 3, HW #18 Question 6 and HW #19 Question 2 (download "quizScorev3",  	"ski_resortv3" and	"trees_are_goodv4").
 
+***TA session 11***
+
+[lab11.R](https://github.com/guerramarcelino/Econ203/blob/master/lab11.R) - HW #20 Question 2 and HW #21 Question 2 (download "innsbruckv3").
+
 ## Research Project
 
 ### Plotting data with ggplot2
