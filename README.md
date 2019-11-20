@@ -46,4 +46,7 @@
 
 [**Line plots for time series data**](https://guerramarcelino.github.io/lineplot/)
 
+[**Mapping data with tmap**](https://guerramarcelino.github.io/mapping/)
+
+[**Full example of a Research Project**](https://guerramarcelino.github.io/project/)
 
