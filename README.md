@@ -42,6 +42,10 @@
 
 [lab11.R](https://github.com/guerramarcelino/Econ203/blob/master/lab11.R) - HW #20 Question 2 and HW #21 Question 2 (download "innsbruckv3").
 
+***TA session 12***
+
+[lab12.R](https://github.com/guerramarcelino/Econ203/blob/master/lab12.R) - HW #22 Question 6 and HW #23 Question 1 (download "dummycarsv3" and "rent_proj2_dat7").
+
 ## Research Project Tutorials
 
 [**Line plots for time series data**](https://guerramarcelino.github.io/lineplot/)
