@@ -1,42 +1,42 @@
 # Econ203
-203 Lab Sessions for **R-users**. 
+203 Lab Sessions for **R-users**.
 
 **Warning to Econ 203 students: you must know how to do it using Excel**. This is just for fun! Also, you are more than welcome to improve the code!
 
 ## Sessions
 
 
-***TA session 1*** 
+***TA session 1***
 
-[lec1.R](https://github.com/guerramarcelino/Econ203/blob/master/lec1.R) - Review #1 Question 1. 
+[lab1.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab1.R) - Review #1 Question 1.
 
-***TA session 2*** 
+***TA session 2***
 
-[lec2.R](https://github.com/guerramarcelino/Econ203/blob/master/lec2.R) - HW #2 Question 12 and HW #3 Question 12  (download "debtequityv1"). 
+[lab2.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab2.R) - HW #2 Question 12 and HW #3 Question 12  (download "debtequityv1").
 
-***TA session 3*** 
+***TA session 3***
 
-[lec3_2.R](https://github.com/guerramarcelino/Econ203/blob/master/lec3_2.R) - HW #4 Question 5 **plus** drawing the Chi-square distribution using ggplot2.
+[lab3.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab3.R) - HW #4 Question 5 **plus** drawing the Chi-square distribution using ggplot2.
 
 ***TA session 4***
 
-[lec4_2.R](https://github.com/guerramarcelino/Econ203/blob/master/lec4_2.R) - HW #6 Question 6 and HW #7 Question 4 (download "yellow_pagesv4" and "fiberv3").
+[lab4.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab4.R) - HW #6 Question 6 and HW #7 Question 4 (download "yellow_pagesv4" and "fiberv3").
 
 ***TA session 5***
 
-[lec5_2.R](https://github.com/guerramarcelino/Econ203/blob/master/lec5_2.R) - HW #9 Question 2 and HW #9 Question 5 (download "furniture_design_v1").
+[lab5.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab5.R) - HW #9 Question 2 and HW #9 Question 5 (download "furniture_design_v1").
 
 ***TA session 8***
 
-[lab8.R](https://github.com/guerramarcelino/Econ203/blob/master/lab8.R) - HW #14 Question 4 and HW #15 Question 2 (download "data_HW14Q4" and "laurelistanv3").
+[lab8.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab8.R) - HW #14 Question 4 and HW #15 Question 2 (download "data_HW14Q4" and "laurelistanv3").
 
 ***TA session 9***
 
-[lec9.R](https://github.com/guerramarcelino/Econ203/blob/master/lec9.R) - Example PISA x Government Efficiency and HW #16 Question 5 (download "PISAxGovEfic" and "StudyGradesv3").
+[lab9.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab9.R) - Example PISA x Government Efficiency and HW #16 Question 5 (download "PISAxGovEfic" and "StudyGradesv3").
 
 ***TA session 10***
 
-[lec10.R](https://github.com/guerramarcelino/Econ203/blob/master/lec10.R) - HW #18 Question 3, HW #18 Question 6 and HW #19 Question 2 (download "quizScorev3",  	"ski_resortv3" and	"trees_are_goodv4").
+[lab10.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab10.R) - HW #18 Question 3, HW #18 Question 6 and HW #19 Question 2 (download "quizScorev3",  	"ski_resortv3" and	"trees_are_goodv4").
 
 ***TA session 11***
 
@@ -53,4 +53,3 @@
 [**Mapping data with tmap**](https://guerramarcelino.github.io/mapping/)
 
 [**Full example of a Research Project**](https://guerramarcelino.github.io/project/)
-
