@@ -8,7 +8,7 @@
 
 ***TA session 1***
 
-[lab1](https://github.com/guerramarcelino/Econ203/blob/master/_tutorials/lab1.md) - Review #1 Question 1.
+[lab1](https://guerramarcelino.github.io/Econ203/lab1) - Review #1 Question 1.
 
 ***TA session 2***
 
