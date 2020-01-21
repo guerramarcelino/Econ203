@@ -2,7 +2,9 @@
 title: "Econ 203: Lab Session 1"
 author: "Marcelino Guerra"
 date: "1/21/2020"
-output: github_document
+output: 
+  html_document:
+    keep_md: true
 ---
 
 ## Review #1 Question 1
