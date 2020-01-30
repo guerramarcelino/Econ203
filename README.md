@@ -12,7 +12,7 @@
 
 ***TA session 2***
 
-[lab2](https://guerramarcelino.github.io/Econ203/lab2) - HW #2 Question 12 and HW #3 Question 12  (download [debtequityv1](https://github.com/guerramarcelino/Econ203/blob/master/data/debtequityv3.xls?raw=true)).
+[lab2](https://guerramarcelino.github.io/Econ203/lab2) - HW #2 Question 12 and HW #3 Question 12  (download [debtequityv3](https://github.com/guerramarcelino/Econ203/blob/master/data/debtequityv3.xls?raw=true)).
 
 ***TA session 3***
 
