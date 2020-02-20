@@ -16,11 +16,11 @@
 
 ***TA session 3***
 
-[lab3.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab3.R) - HW #4 Question 5 **plus** drawing the Chi-square distribution using ggplot2.
+[lab3](https://guerramarcelino.github.io/Econ203/lab3) - HW #4 Question 5.
 
 ***TA session 4***
 
-[lab4.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab4.R) - HW #6 Question 6 and HW #7 Question 4 (download [yellow_pagesv4](https://github.com/guerramarcelino/Econ203/blob/master/data/yellow_pagesv4.xls?raw=true) and [fiberv3](https://github.com/guerramarcelino/Econ203/blob/master/data/fiberv3.xls?raw=true)).
+[lab4](https://guerramarcelino.github.io/Econ203/lab3) - HW #6 Question 6 and HW #7 Question 4 (download [yellow_pagesv4](https://github.com/guerramarcelino/Econ203/blob/master/data/yellow_pagesv4.xls?raw=true) and [fiberv3](https://github.com/guerramarcelino/Econ203/blob/master/data/fiberv3.xls?raw=true)).
 
 ***TA session 5***
 
