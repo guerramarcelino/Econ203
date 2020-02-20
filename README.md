@@ -20,7 +20,7 @@
 
 ***TA session 4***
 
-[lab4](https://guerramarcelino.github.io/Econ203/lab3) - HW #6 Question 6 and HW #7 Question 4 (download [yellow_pagesv4](https://github.com/guerramarcelino/Econ203/blob/master/data/yellow_pagesv4.xls?raw=true) and [fiberv3](https://github.com/guerramarcelino/Econ203/blob/master/data/fiberv3.xls?raw=true)).
+[lab4](https://guerramarcelino.github.io/Econ203/lab4) - HW #6 Question 6 and HW #7 Question 4 (download [yellow_pagesv4](https://github.com/guerramarcelino/Econ203/blob/master/data/yellow_pagesv4.xls?raw=true) and [fiberv3](https://github.com/guerramarcelino/Econ203/blob/master/data/fiberv3.xls?raw=true)).
 
 ***TA session 5***
 
