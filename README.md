@@ -24,7 +24,7 @@
 
 ***TA session 5***
 
-[lab5.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab5.R) - HW #9 Question 2 and HW #9 Question 5 (download [furniture_design_v1](https://github.com/guerramarcelino/Econ203/blob/master/data/furniture_design_v1.xlsx?raw=true)).
+[lab5.R](https://guerramarcelino.github.io/Econ203/lab5) - HW #9 Question 2 and HW #9 Question 5 (download [furniture_design_v1](https://github.com/guerramarcelino/Econ203/blob/master/data/furniture_design_v1.xlsx?raw=true)).
 
 ***TA session 8***
 
