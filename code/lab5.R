@@ -34,7 +34,7 @@ max
 getwd()
 
 #### Setting up my directory  
-setwd("C:/Users/User/Desktop/Econ203/TA/5")
+setwd("C:/Users/User/OneDrive - UIUC/OneDrive - University of Illinois - Urbana/Semestre 6/Econ203 Spring 2020/")
 
 library(xlsx)
 

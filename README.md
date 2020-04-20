@@ -28,7 +28,7 @@
 
 ***TA session 8***
 
-[lab8.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab8.R) - HW #14 Question 4 and HW #15 Question 2 (download [data_HW14Q4](https://github.com/guerramarcelino/Econ203/blob/master/data/data_HW14Q4.xlsx?raw=true) and [laurelistanv3](https://github.com/guerramarcelino/Econ203/blob/master/data/laurelistanv3.xls?raw=true)).
+[lab8](https://guerramarcelino.github.io/Econ203/lab8) - HW #14 Question 4 and HW #15 Question 2 (download [data_HW14Q4](https://github.com/guerramarcelino/Econ203/blob/master/data/data_HW14Q4.xlsx?raw=true) and [laurelistanv3](https://github.com/guerramarcelino/Econ203/blob/master/data/laurelistanv3.xls?raw=true)).
 
 ***TA session 9***
 

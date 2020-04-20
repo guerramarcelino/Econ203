@@ -55,7 +55,6 @@ rsq4
 ########################################################                 ########################################################
 
 laurelist<-read.xlsx("laurelistanv3.xls", sheetName = "Sheet1", as.data.frame = T, header = T)
-View(laurelist)
 ### Column 3 has no data - it is information about the data (millions)
 
 ### Getting rid of column 3 
