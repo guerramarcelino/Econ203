@@ -32,19 +32,19 @@
 
 ***TA session 9***
 
-[lab9.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab9.R) - Example PISA x Government Efficiency and HW #16 Question 5 (download [PISAxGovEffic](https://github.com/guerramarcelino/Econ203/blob/master/data/PISAxGovEfic.xlsx?raw=true) and [StudyGradesv3](https://github.com/guerramarcelino/Econ203/blob/master/data/StudyGradesv3.xls?raw=true)).
+[lab9](https://guerramarcelino.github.io/Econ203/lab9) - Example PISA x Government Efficiency and HW #16 Question 5 (download [PISAxGovEffic](https://github.com/guerramarcelino/Econ203/blob/master/data/PISAxGovEfic.xlsx?raw=true) and [StudyGradesv3](https://github.com/guerramarcelino/Econ203/blob/master/data/StudyGradesv3.xls?raw=true)).
 
 ***TA session 10***
 
-[lab10.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab10.R) - HW #18 Question 3, HW #18 Question 6 and HW #19 Question 2 (download [quizScorev3](https://github.com/guerramarcelino/Econ203/blob/master/data/quizScorev3.xls?raw=true), [ski_resortv3](https://github.com/guerramarcelino/Econ203/blob/master/data/ski_resortv3.xls?raw=true) and	[trees_are_goodv4](https://github.com/guerramarcelino/Econ203/blob/master/data/trees_are_goodv4.xls?raw=true)).
+[lab10](https://guerramarcelino.github.io/Econ203/lab10) - HW #18 Question 3, HW #18 Question 6 and HW #19 Question 2 (download [quizScorev3](https://github.com/guerramarcelino/Econ203/blob/master/data/quizScorev3.xls?raw=true), [ski_resortv3](https://github.com/guerramarcelino/Econ203/blob/master/data/ski_resortv3.xls?raw=true) and	[trees_are_goodv4](https://github.com/guerramarcelino/Econ203/blob/master/data/trees_are_goodv4.xls?raw=true)).
 
 ***TA session 11***
 
-[lab11.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab11.R) - HW #20 Question 2 and HW #21 Question 2 (download [innsbruckv3](https://github.com/guerramarcelino/Econ203/blob/master/data/innsbruckv3.xls?raw=true)).
+[lab11](https://guerramarcelino.github.io/Econ203/lab11) - HW #20 Question 2 and HW #21 Question 2 (download [innsbruckv3](https://github.com/guerramarcelino/Econ203/blob/master/data/innsbruckv3.xls?raw=true)).
 
 ***TA session 12***
 
-[lab12.R](https://github.com/guerramarcelino/Econ203/blob/master/code/lab12.R) - HW #22 Question 6 and HW #23 Question 1 (download [dummycarsv3](https://github.com/guerramarcelino/Econ203/blob/master/data/dummycarsv3.xls?raw=true) and [rent_proj2_dat7](https://github.com/guerramarcelino/Econ203/blob/master/data/rent_proj2_dat7.xls?raw=true)).
+[lab12](https://guerramarcelino.github.io/Econ203/lab12) - HW #22 Question 6 and HW #23 Question 1 (download [dummycarsv3](https://github.com/guerramarcelino/Econ203/blob/master/data/dummycarsv3.xls?raw=true) and [rent_proj2_dat7](https://github.com/guerramarcelino/Econ203/blob/master/data/rent_proj2_dat7.xls?raw=true)).
 
 ## Research Project Tutorials
 

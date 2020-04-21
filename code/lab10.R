@@ -69,14 +69,12 @@ predicted_score
 setwd("C:/Users/User/Desktop/Econ203/TA/10")
 ## Importing the Data
 ski_resort<-read.xlsx("ski_resortv3.xls", sheetName = "Data", as.data.frame = T, header = T)
-View(ski_resort)
 
 ## lm is the function used to fit linear models
 reg<-lm(Tickets~Snowfall+Temperature, data=ski_resort)
 summary(reg)
 residuals<-resid(reg)
 ski_resort$resid<-residuals
-View(ski_resort)
 
 ## Creating a new column (TIME)
 ski_resort$Time<-c(1:20)

@@ -20,7 +20,6 @@ AdjR2
 ############### Homework 21 Question 2
 
 data<-read.xlsx("innsbruckv3.xls", sheetName = "Data", as.data.frame = T, header = T)
-View(data)
 
 ### Dependent variable: margin
 
